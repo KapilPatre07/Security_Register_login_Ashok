@@ -26,6 +26,10 @@ public class Customer {
 	public String getUname() {
 		return uname;
 	}
+	
+	public String getMsg() {
+		return "Hi";
+	}
 
 	public void setUname(String uname) {
 		this.uname = uname;
